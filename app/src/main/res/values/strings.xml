@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FinalProjectSecurity</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="skip">Skip</string>
+        <string name="title_board">All kinds of gifts</string>
+        <string name="text_board">The best gifts in one place</string>
+        <string name="next">Next</string>
+        <string name="If">If you do not have an account? sign up</string>
+        <string name="title_board2">Secure delivery</string>
+        <string name="text_board2"> Deliver orders to your home or company door and enjoy the security delivery that you can  return the order if any defective</string>
+        <string name="title_board3">Gifts </string>
+        <string name="text_board3">We have the best gifts and new toys on the occasion of the New Year</string>
+        <string name="details_onborad3"> By clicking on Get started button you  accept Our terms and conditions and privacy policy of Gifts shop</string>
+        <string name="started_btn">Start</string>
+        <string name="termsAndConditionText"> jojfekle kjnerjer kjoeioen kjwfkjfw jknwfjk kjnfkw kndfkw knfwkjfikw kjwfkjlw pqwioepi powepekd, ,maslkp popopowe qpdoqpodjo</string>
+        <string name="condition_title">Terms and conditions</string>
+        <string name="policy_title">Privacy Policy</string>
+        <string name="get_started_with_you">Get started with yo</string>
+        <string name="enter_sms">Enter your SMS code below</string>
+        <string name="Phone_Verification">Phone Verification</string>
+        <string name="Resend_code">Resend Code in</string>
+        <string name="seconds">10 seconds</string>
+        <string name="name_hint">Name</string>
+        <string name="password">password</string>
+        <string name="GO">LOG IN</string>
+        <string name="btn_map_text">Gaza-Al Remal Street</string>
+        <string name="filter_hint">What are you craving for?</string>
+        <string name="categeory_list">Explore by Catergory</string>
+        <string name="best_product">Best products</string>
+        <string name="enter_yout_details">Enter Your Details</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFF3459</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorPrimaryToolbar">#FFFFFF</color>
+
+    <color name="colorTextPrimary">#FFFF3459</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTextSkip">#000000</color>
+    <color name="title_board">#EB374C</color>
+    <color name="back_btn_started">#FF3459</color>
+    <color name="my_color_btn_started">#FFFFFF</color>
+    <color name="colorEditeText">#FFFFFF</color>
+    <color name="colotHint">#7C242A37</color>
+    <color name="material_white">#FFFFFF</color>
+    <color name="material_border_indicator">#FF3459</color>
+    <color name="material_soild_indicator">#E94761</color>
+    <color name="back_btn_map">#FF3459</color>
+    <color name="edit_text_filter">#6AF1F0F5</color>
+    <color name="color_explore_categeory_list">#00285D</color>
+</resources>
